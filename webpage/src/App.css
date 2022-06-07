@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+
+
+.App {
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: var(--color-bg-primary);
+}
+:root {
+  --color-primary: #fff;
+  --color-bg-primary: #f2f3f5;
+  --color-bg-secondary: #fff2de;
+  --color-text-primary: #707070;
+  --color-btn-bg-primary: #3489b1;
+}
+
+h1{
+  font-weight: 500;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
