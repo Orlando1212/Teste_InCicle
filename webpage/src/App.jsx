@@ -1,6 +1,5 @@
 import RoutesApp  from './routes';
 import './App.css';
-import Header from './components/NavBar'
 import  JsonDataDisplay from './services';
 
 

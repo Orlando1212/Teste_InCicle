@@ -3,8 +3,8 @@ import './home.css'
 import VisitDataDisplay from '../components/VisitCard'; 
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
-import DataCard from '../components/Data';
 import Loader from './Loader';
+
 
 
 function Home(){

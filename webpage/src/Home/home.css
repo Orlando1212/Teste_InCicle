@@ -45,7 +45,6 @@ h2{
     position: absolute;
         right: 0;
     width: 20%;
-    height: 42%;
     margin-right: 35px;
     background-color: #F5F5DC;
     border: 1px solid gray;
@@ -72,7 +71,8 @@ h2{
 }
 
 .button-aside{
-    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-top: 10px;
     margin-left: -160px;
     width: 100px;
     height: 30px;
@@ -114,4 +114,9 @@ h2{
     border-radius: 5px;
     color: #fff;
     text-transform: uppercase;
+}
+
+
+@media (min-width: 900px) and (max-width: 995px){
+   
 }
