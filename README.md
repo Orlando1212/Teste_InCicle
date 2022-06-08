@@ -7,9 +7,12 @@ A aplicação é uma pagina com a integração de arquivos json e funções para
 
 
 # Linguaguens utilizadas 
- -- HTML,CSS,JavaScript
- --ReactJS
- -- Bootstrap
+ HTML
+ CSS
+ JavaScript
+ Boostrap
+ ReactJS
+
 
 
  # Como utilizar o codigo
